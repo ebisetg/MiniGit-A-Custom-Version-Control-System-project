@@ -91,7 +91,7 @@ MiniGit is a lightweight, Git-inspired version control system built from scratch
 
 ## 📽️ Demo
 
-https://drive.google.com/drive/recent
+https://drive.google.com/file/d/1N7BTMMo-YxVFswvBTbwPTSxc8EESyueA/view
 
 ---
 
